@@ -78,7 +78,7 @@ Prebuilt files and required assets are available via the **GitHub Releases** pag
 
 ➡ Download here: [https://github.com/BaconSantaOS/RBX-Job-App-System/releases/tag/rbx](https://github.com/BaconSantaOS/RBX-Job-App-System/releases/tag/rbx)
 
-> Note: Some assets may be provided as `.txt` files and should be renamed to their correct Roblox instance types after importing.
+
 
 ---
 
