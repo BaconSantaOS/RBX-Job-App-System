@@ -31,6 +31,7 @@ Once the player finishes the application:
 * Their total score is calculated
 * If they meet or exceed the required score, they **pass**
 * Passing players are awarded a **badge**
+* Optionally, players can be prompted to **join a Roblox group**
 
 The Job Application game does **not** permanently rank players. Instead, it only awards a badge, which acts as proof that the player passed.
 
@@ -71,9 +72,23 @@ This means:
 
 ---
 
+## 📦 Downloads
+
+Prebuilt files and required assets are available via the **GitHub Releases** page.
+
+➡ Download here: [https://github.com/BaconSantaOS/RBX-Job-App-System/releases/tag/rbx](https://github.com/BaconSantaOS/RBX-Job-App-System/releases/tag/rbx)
+
+> Note: Some assets may be provided as `.txt` files and should be renamed to their correct Roblox instance types after importing.
+
+---
+
 ## 🚀 Final Notes
 
 This system is designed to be **customizable**, **expandable**, and **safe**.
+
+* Group join prompts have been **removed** for simplicity and security
+* The badge system is used as the single source of truth for passing
+* HD Admin handles permanent ranking in the main game
 
 Developers can:
 
