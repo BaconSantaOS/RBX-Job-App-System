@@ -86,7 +86,6 @@ Prebuilt files and required assets are available via the **GitHub Releases** pag
 
 This system is designed to be **customizable**, **expandable**, and **safe**.
 
-* Group join prompts have been **removed** for simplicity and security
 * The badge system is used as the single source of truth for passing
 * HD Admin handles permanent ranking in the main game
 
