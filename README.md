@@ -31,7 +31,7 @@ Once the player finishes the application:
 * Their total score is calculated
 * If they meet or exceed the required score, they **pass**
 * Passing players are awarded a **badge**
-* Optionally, players can be prompted to **join a Roblox group**
+
 
 The Job Application game does **not** permanently rank players. Instead, it only awards a badge, which acts as proof that the player passed.
 
